@@ -24,7 +24,7 @@ const Aftersubmit = ({ setSubmitted, item, setItem }) => {
           <div className="font-sm text-Light-Grey text-sm font-Overpass flex  justify-center mt-3">
             <p>
               We appreciate you taking he time to a rating. if you ever need
-              more support don't hesitate to get in touch!
+              more support don`&apos;`t hesitate to get in touch!
             </p>
           </div>
           <div className="mx-auto flex justify-center">
